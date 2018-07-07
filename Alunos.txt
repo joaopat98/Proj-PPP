@@ -1,0 +1,150 @@
+Andre Andre
+MEI
+2010142354
+7
+n
+Maria Ana
+LDM
+2012112442
+5
+n
+Ines Silva
+MDM
+2012539485
+5
+t
+Beatriz Peixoto
+LEI
+2012837465
+5
+n
+Maria Nogueira
+LDM
+2014029356
+3
+t
+Andreia salvador
+LDM
+2014094356
+3
+n
+Andreia salvador
+LDM
+2014214356
+3
+n
+Andreia salvador
+LDM
+2014294356
+3
+n
+Andreia salvador
+LDM
+2014294656
+3
+n
+Andreia salvador
+LDM
+2014394356
+3
+n
+Rita Silva
+MEI
+2014923849
+3
+d
+Maria albertina
+LDM
+2014928374
+3
+n
+Andreia salvador
+LDM
+2015294356
+2
+n
+Miguel Silva
+LEI
+2015392049
+2
+n
+Miguel Antunes
+LEI
+2015827364
+2
+n
+Andre Andrade
+LEI
+2015888924
+2
+n
+Joao Almeida
+LEI
+2015934776
+2
+n
+Jorge Sousa
+LDM
+2016226534
+1
+a
+Jorge Sousa
+LDM
+2016226535
+1
+a
+Joao Patricio
+LEI
+2016228013
+1
+n
+Guilherme Tavares
+LEI
+2016228357
+1
+n
+Joao Almeida
+LEI
+2016334776
+1
+n
+Joao Almeida
+LEI
+2016434776
+1
+n
+Joao Antnio
+LEI
+2016492045
+1
+e
+Joao Almeida
+LEI
+2016634776
+1
+n
+Joao Almeida
+LEI
+2016934276
+1
+n
+Joao Almeida
+LEI
+2016934766
+1
+n
+Joao Almeida
+LEI
+2016934776
+1
+n
+Joao Almeida
+LEI
+2016994776
+1
+n
+Mike Landry
+LEI
+2016996123
+1
+e
